@@ -2,8 +2,8 @@
 
 <h3 align="center">Formando em Engenharia da Computação e Desenvolvedor Web Full Stack Jr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrohfer&label=Profile%20views&color=0e75b6&style=flat" alt="leandrohenrique" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrohfer&label=Profile%20views&color=0e75b6&style=flat" alt="leandrohenrique" /> </p>
+ -->
 ![GitHub Org's stars](https://img.shields.io/github/stars/leandrohfer?style=social)
 
 - 💻 Atualmente estou trabalhando como Programador de sistemas de informação [M.I Montreal Informática S/A](https://www.montreal.com.br/)
