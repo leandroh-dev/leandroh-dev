@@ -8,7 +8,7 @@
 
 - 💻 Atualmente estou trabalhando como Programador de sistemas de informação [M.I Montreal Informática S/A](https://www.montreal.com.br/)
 
-- 📚 8º Semestre de Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
+- 📚 9º Semestre de Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
 
 - 💬 Pergunte-me sobre **JavaScript/jQuery**, **Bootstrap5/HTML5/CSS3** e **PHP**
 
