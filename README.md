@@ -10,7 +10,7 @@
 
 - 📚 9º Semestre de Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
 
-- 💬 Pergunte-me sobre **JavaScript/jQuery**, **Bootstrap5/HTML5/CSS3** e **PHP**
+- 💬 Pergunte-me sobre **JavaScript/jQuery**, **Bootstrap5/HTML5/CSS3**, **PHP** e **C#**
 
 - 📫 Você pode me enviar uma mensagem pelo Telegram **@leandro_h1** ou pelo e-mail **leandroh.engcomp@gmail.com**
 
