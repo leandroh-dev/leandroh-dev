@@ -10,7 +10,7 @@
 
 - 📚 9º Semestre de Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
 
-- 💬 Pergunte-me sobre **JavaScript/jQuery**, **Bootstrap5/HTML5/CSS3**, **PHP** e **C#**
+- 💬 Pergunte-me sobre  **PHP**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
 - 📫 Você pode me enviar uma mensagem pelo Telegram **@leandro_h1** ou pelo e-mail **leandroh.engcomp@gmail.com**
 
@@ -65,7 +65,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-<!--   <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
   
   ##
