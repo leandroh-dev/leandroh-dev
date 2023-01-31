@@ -1,6 +1,6 @@
 <h2 align="center">👋 Olá, eu me chamo Leandro Henrique!</h2>
 
-<h3 align="center">Engenheiro da Computação e Desenvolvedor .NET Full Stack Jr.</h3>
+<h3 align="center">Engenheiro da Computação e Desenvolvedor .NET Jr.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrohfer&label=Profile%20views&color=0e75b6&style=flat" alt="leandrohenrique" /> </p>
  -->
