@@ -1,6 +1,6 @@
 <h2 align="center">👋 Olá, eu me chamo Leandro Henrique!</h2>
 
-<h3 align="center">Formando em Engenharia da Computação e Desenvolvedor Web Full Stack Jr.</h3>
+<h3 align="center">Engenheiro da Computação e Desenvolvedor .NET Full Stack Jr.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrohfer&label=Profile%20views&color=0e75b6&style=flat" alt="leandrohenrique" /> </p>
  -->
@@ -10,7 +10,7 @@
 
 - 📚 9º Semestre de Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
 
-- 💬 Pergunte-me sobre  **PHP**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
+- 💬 Pergunte-me sobre  **.NET**, **PHP**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
 - 📫 Você pode me enviar uma mensagem pelo Telegram **@leandro_h1** ou pelo e-mail **leandroh.engcomp@gmail.com**
 
