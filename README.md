@@ -6,11 +6,11 @@
  -->
 ![GitHub Org's stars](https://img.shields.io/github/stars/leandrohfer?style=social)
 
-- 💻 Atualmente estou trabalhando como Programador de sistemas de informação [M.I Montreal Informática S/A](https://www.montreal.com.br/)
+- 💻 Atualmente estou trabalhando como Analista Desenvolvedor .NET [Qintess Holding e Participações](https://www.qintess.com/)
 
 - 📚 Bacharel em Engenharia da Computação na [Universidade Federal do Pará/Brasil](https://www.fct.ufpa.br)
 
-- 💬 Pergunte-me sobre  **.NET**, **PHP**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
+- 💬 Pergunte-me sobre  **.NET**, **ASP.NET Core**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
 - 📫 Você pode me enviar uma mensagem pelo Telegram **@leandro_h1** ou pelo e-mail **leandroh.engcomp@gmail.com**
 
