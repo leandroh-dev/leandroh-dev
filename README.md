@@ -13,7 +13,7 @@
 
 - 🎓 Bacharel em Engenharia da Computação pela [Universidade Federal do Pará](https://www.ufpa.br)
 
-- 📚 Atualmento estou estudando sobre **REST com ASP.NET Core WebAPI**
+- 📚 Atualmente estou estudando sobre **REST com ASP.NET Core WebAPI**
 
 - 💬 Pergunte-me sobre **.NET**, **ASP.NET Core**, **ASP.NET MVC Core**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
