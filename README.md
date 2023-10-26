@@ -15,7 +15,7 @@
 
 - 📚 Atualmente estou estudando sobre **REST com ASP.NET Core WebAPI**
 
-- 💬 Pergunte-me sobre **.NET**, **ASP.NET Core**, **ASP.NET MVC Core**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
+- 💬 Pergunte-me sobre **.NET**, **ASP.NET Core**, **ASP.NET Core MVC**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
 - 📫 Você pode entrar em contato comigo pelo e-mail **leandroh.engcomp@gmail.com**
 
