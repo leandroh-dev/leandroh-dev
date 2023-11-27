@@ -4,7 +4,7 @@
 <div align="center">
   <!-- <a href="https://instagram.com/_leandroh1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/leandrohfer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leandroh.engcomp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leandroh.engcomp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## 🐱‍🏍 Resumo Pessoal:
@@ -13,9 +13,9 @@
 
 - 🎓 Bacharel em Engenharia da Computação pela [Universidade Federal do Pará](https://www.ufpa.br)
 
-- 📚 Atualmento estou estudando sobre **REST com ASP.NET Core WebAPI**
+- 📚 Atualmente estou estudando sobre **REST com ASP.NET Core WebAPI**
 
-- 💬 Pergunte-me sobre **.NET**, **ASP.NET Core**, **ASP.NET MVC Core**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
+- 💬 Pergunte-me sobre **.NET**, **ASP.NET Core**, **ASP.NET Core MVC**, **C#**, **JavaScript/jQuery** e **Bootstrap5/HTML5/CSS3**
 
 - 📫 Você pode entrar em contato comigo pelo e-mail **leandroh.engcomp@gmail.com**
 
@@ -26,8 +26,8 @@
 <div align="center">
   <a href="https://github.com/leandrohfer">
    <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leandrohfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=leandrohfer&theme=dark"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohfer&layout=compact&langs_count=4&theme=dark"/>
+   <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=leandrohfer&theme=dark"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohfer&layout=compact&langs_count=4&theme=dark"/>
   <a/>
 </div>
 
@@ -65,8 +65,11 @@
 
 <details>
   <summary><h3>Desenvolvedor.io</h3></summary>
-    <a href="https://desenvolvedor.io/certificado/631d35a3-87f1-43a8-bc2f-d64989aa0608">
+    <a href="https://desenvolvedor.io/certificado/631d35a3-87f1-43a8-bc2f-d64989aa0608" target="_blank">
      <img src="images/fundamentos-do-csharp.png" width="120px" title="Fundamentos do C#">
+    </a>
+    <a href="https://desenvolvedor.io/certificado/68533e34-936c-4b9f-b4dd-871a9c6e5857" target="_blank">
+     <img src="images/iniciando-com-aspnet-core.png" width="120px" title="Iniciando com ASP.NET Core">
     </a>
 </details>
 
