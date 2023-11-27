@@ -68,6 +68,9 @@
     <a href="https://desenvolvedor.io/certificado/631d35a3-87f1-43a8-bc2f-d64989aa0608" target="_blank">
      <img src="images/fundamentos-do-csharp.png" width="120px" title="Fundamentos do C#">
     </a>
+    <a href="https://desenvolvedor.io/certificado/68533e34-936c-4b9f-b4dd-871a9c6e5857" target="_blank">
+     <img src="images/iniciando-com-aspnet-core.png" width="120px" title="Iniciando com ASP.NET Core">
+    </a>
 </details>
 
  
