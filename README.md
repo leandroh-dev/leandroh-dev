@@ -71,6 +71,9 @@
     <a href="https://desenvolvedor.io/certificado/68533e34-936c-4b9f-b4dd-871a9c6e5857" target="_blank">
      <img src="images/iniciando-com-aspnet-core.png" width="120px" title="Iniciando com ASP.NET Core">
     </a>
+    <a href="https://desenvolvedor.io/certificado/5d7b580e-9f03-40cd-8344-2ca52cf0cf89" target="_blank">
+     <img src="images/fundamentos-aspnet-mvc.png" width="120px" title="Fundamentos do ASP.NET MVC">
+    </a>
 </details>
 
  
